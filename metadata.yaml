@@ -1,0 +1,42 @@
+_repo: Sota-ja-rauha-II_45284
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wallenius, Iivari
+    gutenberg_agent_id: '43186'
+    url: http://www.gutenberg.org/2009/agents/43186
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoi, Leo
+    - Tolstoy, Graf Leo
+    - Tolstoy, Lev N.
+    - Tolstoï, Léon
+    - Толстой, Лев Николаевич
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2014-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45284'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aristocracy (Social class) -- Russia -- Fiction'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Campaigns -- Russia -- Fiction'
+- !lcsh 'War stories'
+- !lcc 'PG'
+- !lcsh 'Historical fiction'
+- !lcsh 'Russia -- History -- Alexander I, 1801-1825 -- Fiction'
+title: Sota ja rauha II
+url: http://www.gutenberg.org/ebooks/45284
